@@ -1,0 +1,16 @@
+﻿[fdConnection]
+Coordinates=73,77,90,36
+
+[qQuery]
+Coordinates=10,10,57,58
+
+[FDPhysFBDriverLink1]
+Coordinates=168,1,142,36
+
+[]
+Coordinates=348,1,91,36
+
+[qPosts]
+Coordinates=77,10,73,58
+Visible=True
+
